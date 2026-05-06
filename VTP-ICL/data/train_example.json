@@ -1,0 +1,54 @@
+[
+  {
+    "image": "images/train/class_a_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": ""
+      },
+      {
+        "from": "gpt",
+        "value": "[{\"bbox_2d\": [x1,y1,x2,y2], \"label\": \"class name\"}]"
+      }
+    ]
+  },
+  {
+    "image": "images/train/class_a_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": ""
+      },
+      {
+        "from": "gpt",
+        "value": "[{\"bbox_2d\": [x1,y1,x2,y2], \"label\": \"class name\"}]"
+      }
+    ]
+  },
+  {
+    "image": "images/train/class_b_001.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": ""
+      },
+      {
+        "from": "gpt",
+        "value": "[{\"bbox_2d\": [x1,y1,x2,y2], \"label\": \"class name\"}]"
+      }
+    ]
+  },
+  {
+    "image": "images/train/class_b_002.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": ""
+      },
+      {
+        "from": "gpt",
+        "value": "[{\"bbox_2d\": [x1,y1,x2,y2], \"label\": \"class name\"}]"
+      }
+    ]
+  }
+]
